@@ -13,19 +13,9 @@
     
     
     <item>
-      <title>Erin Dahl</title>
-      <link>http://karstenslab.github.io/lab_members/erin/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://karstenslab.github.io/lab_members/erin/</guid>
-      <description>&lt;p&gt;Erin Dahl joined the Karstens Lab in January 2020 as a DIMCE Intern. She continued working in the Karstens Lab as a student worker on improving data visualization and generalizing code workflows. Erin has recently completed her Bioinformatics degree at Pacific University (January 21&#39;) and is now a Research Assistant.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Alec Barstad</title>
       <link>http://karstenslab.github.io/lab_members/alec/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>http://karstenslab.github.io/lab_members/alec/</guid>
       <description></description>
@@ -34,11 +24,21 @@
     <item>
       <title>Emory Neer</title>
       <link>http://karstenslab.github.io/lab_members/emory/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>http://karstenslab.github.io/lab_members/emory/</guid>
       <description>&lt;p&gt;Emory Neer studies public health and geographic information systems at Portland State. She has worked in the Karstens Lab as a part of the Build EXITO program on creating a universially colorblind friendly palette.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.pdx.edu/exito/&#34;&gt;https://www.pdx.edu/exito/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Erin Dahl</title>
+      <link>http://karstenslab.github.io/lab_members/erin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/lab_members/erin/</guid>
+      <description>&lt;p&gt;Erin Dahl joined the Karstens Lab in January 2020 as a DIMCE Intern. She continued working in the Karstens Lab as a student worker on improving data visualization and generalizing code workflows. Erin has recently completed her B.S. in Bioinformatics from Pacific University (January 21&#39;).&lt;/p&gt;
 </description>
     </item>
     

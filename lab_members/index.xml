@@ -23,21 +23,82 @@
     </item>
     
     <item>
-      <title>Erin Dahl</title>
-      <link>http://karstenslab.github.io/lab_members/erin/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Jean-Philippe Gourdine</title>
+      <link>http://karstenslab.github.io/lab_members/jp/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://karstenslab.github.io/lab_members/erin/</guid>
-      <description>&lt;p&gt;Erin Dahl joined the Karstens Lab in January 2020 as a DIMCE Intern. She continued working in the Karstens Lab as a student worker on improving data visualization and generalizing code workflows. Erin has recently completed her Bioinformatics degree at Pacific University (January 21&#39;) and is now a Research Assistant.&lt;/p&gt;
+      <guid>http://karstenslab.github.io/lab_members/jp/</guid>
+      <description>&lt;p&gt;Dr. Jean-Philippe (JP) Gourdine is a Senior Research Associate at the Oregon Health &amp;amp; Science University (OHSU), at the Oregon Clinical and Translational Institute (OCTRI) and part of Dr. Lisa Karstens lab since 2019.&lt;/p&gt;
+&lt;p&gt;After his PhD in Marine Molecular Biology and Biochemistry (2006) from the Université des Antilles et de la Guyane (UAG, French Caribbean) and research and teaching positions in Glycobiology in France and the US (Martinique/Grenoble &amp;amp; Emory University, Atlanta, GA), he moved to Portland, Oregon in 2014, working as a scientific patent clerk at Kolisch-Hartwell then as a research associate in biological ontologies at OHSU.&lt;/p&gt;
+&lt;p&gt;Dr. Gourdine’s work in the Karstens’ lab includes metadata and data standards in human urogenital microbiome (urobiome) research and NMR metabolomics analysis in R.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Alec Barstad</title>
       <link>http://karstenslab.github.io/lab_members/alec/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>http://karstenslab.github.io/lab_members/alec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emory Neer</title>
+      <link>http://karstenslab.github.io/lab_members/emory/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/lab_members/emory/</guid>
+      <description>&lt;p&gt;Emory Neer studies public health and geographic information systems at Portland State. She has worked in the Karstens Lab as a part of the Build EXITO program on creating a universially colorblind friendly palette.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pdx.edu/exito/&#34;&gt;https://www.pdx.edu/exito/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Erin Dahl</title>
+      <link>http://karstenslab.github.io/lab_members/erin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/lab_members/erin/</guid>
+      <description>&lt;p&gt;Erin Dahl joined the Karstens Lab in January 2020 as a DIMCE Intern. She continued working in the Karstens Lab as a student worker on improving data visualization and generalizing code workflows. Erin has recently completed her B.S. in Bioinformatics from Pacific University (January 21&#39;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Justine Nguyen</title>
+      <link>http://karstenslab.github.io/lab_members/justine/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/lab_members/justine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kate Bowie</title>
+      <link>http://karstenslab.github.io/lab_members/kate/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/lab_members/kate/</guid>
+      <description>&lt;p&gt;Kate is a Ph.D. candidate in the biomedical engineering department. Her primary research focus is on targeted sequencing of low-microbial biomass samples and establishing robust methods to analyze samples with high amounts of DNA contamination. Kate applies these techniques towards studying bacterial translocation and the composition of the urinary microbiome in patients with prostate cancer. When not in the lab or during a global pandemic, you’ll find Kate seeing live music, hiking, or petting the neighborhood dogs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eric Leung</title>
+      <link>http://karstenslab.github.io/lab_members/eric/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/lab_members/eric/</guid>
+      <description>&lt;p&gt;Eric Leung graduated with a Master of Science in Biomedical Informatics, with a concentration in Bioinformatics and Computational Biology in Fall 2020. His thesis work was on studying the urinary and vaginal microbiomes of women with urgency urinary incontinence using network-based methods. He also enjoy supporting  co-learning and implementation of open-science initiatives.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ian Fields</title>
+      <link>http://karstenslab.github.io/lab_members/ian/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/lab_members/ian/</guid>
       <description></description>
     </item>
     
@@ -61,72 +122,12 @@
     </item>
     
     <item>
-      <title>Emory Neer</title>
-      <link>http://karstenslab.github.io/lab_members/emory/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karstenslab.github.io/lab_members/emory/</guid>
-      <description>&lt;p&gt;Emory Neer studies public health and geographic information systems at Portland State. She has worked in the Karstens Lab as a part of the Build EXITO program on creating a universially colorblind friendly palette.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.pdx.edu/exito/&#34;&gt;https://www.pdx.edu/exito/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Eric Leung</title>
-      <link>http://karstenslab.github.io/lab_members/eric/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karstenslab.github.io/lab_members/eric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fatima</title>
       <link>http://karstenslab.github.io/lab_members/fatima/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://karstenslab.github.io/lab_members/fatima/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Ian Fields</title>
-      <link>http://karstenslab.github.io/lab_members/ian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karstenslab.github.io/lab_members/ian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jean-Philippe Gourdine</title>
-      <link>http://karstenslab.github.io/lab_members/jp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karstenslab.github.io/lab_members/jp/</guid>
-      <description>&lt;p&gt;Dr. Jean-Philippe (JP) Gourdine is a Senior Research Associate at the Oregon Health &amp;amp; Science University (OHSU), at the Oregon Clinical and Translational Institute (OCTRI) and part of Dr. Lisa Karstens lab since 2019.&lt;/p&gt;
-&lt;p&gt;After his PhD in Marine Molecular Biology and Biochemistry (2006) from the Université des Antilles et de la Guyane (UAG, French Caribbean) and research and teaching positions in Glycobiology in France and the US (Martinique/Grenoble &amp;amp; Emory University, Atlanta, GA), he moved to Portland, Oregon in 2014, working as a scientific patent clerk at Kolisch-Hartwell then as a research associate in biological ontologies at OHSU.&lt;/p&gt;
-&lt;p&gt;Dr. Gourdine’s work in the Karstens’ lab includes metadata and data standards in human urogenital microbiome (urobiome) research and NMR metabolomics analysis in R.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Justine Nguyen</title>
-      <link>http://karstenslab.github.io/lab_members/justine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karstenslab.github.io/lab_members/justine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kate Bowie</title>
-      <link>http://karstenslab.github.io/lab_members/kate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://karstenslab.github.io/lab_members/kate/</guid>
-      <description>&lt;p&gt;Kate is a Ph.D. candidate in the biomedical engineering department. Her primary research focus is on targeted sequencing of low-microbial biomass samples and establishing robust methods to analyze samples with high amounts of DNA contamination. Kate applies these techniques towards studying bacterial translocation and the composition of the urinary microbiome in patients with prostate cancer. When not in the lab or during a global pandemic, you’ll find Kate seeing live music, hiking, or petting the neighborhood dogs.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
