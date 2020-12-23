@@ -7,9 +7,39 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://karstenslab.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Congrats to 2020 Graduates!</title>
+      <link>http://karstenslab.github.io/post/2020-grads/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/post/2020-grads/</guid>
+      <description>&lt;p&gt;2020 has been hard in so many ways, BUT the Karstens lab members have been busy wrapping up their studies. DMICE BCBC Masters students Carter Hoffman and Alfonso Poire completed their programs. Carter’s thesis focused on identifying species-level information from 16S rRNA gene sequencing data. Alfonso completed a capstone/internship at J Craig Venter Institute probing molecular interactions in the nitrogen-fixing cyanobacteria-feather moss symbiosis. Also, our first EXITO scholar, Fatoumata Jallow, graduated! Her EXITO project explored using additional experimental information to improve urinary microbiome measurements. Finally, urogynecology Fellow Ian Fields, MD completed his training and will be joining OHSU as faculty.    We are sad that were not able to celebrate these accomplishments in person! CONGRATS ALL!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Congrats to Kate for receiving the Frictionless data fellowship!</title>
+      <link>http://karstenslab.github.io/post/frictionlessfellow/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/post/frictionlessfellow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congrats to 2018 graduates!</title>
+      <link>http://karstenslab.github.io/post/2018-grads/</link>
+      <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/post/2018-grads/</guid>
+      <description>&lt;p&gt;The first two graduate students in the Karstens lab have officially graduated! Mark Klick and Vincent Caruso joined the Karstens Lab to complete their Master’s thesis project in 2017. Mark’s project was in collaboration with the Asquith Lab and focused on investigating a novel IgA Seq technology to understand spondyloarthritis. He will be joining this lab as a Research Assistant after graduation. Vincent’s project focused on benchmarking newly developed microbiome bioinformatic approachesin samples of varying microbial biomass. He will be completing a Fellowship at the CDC. Congrats Mark and Vincent!&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
