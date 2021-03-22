@@ -7,10 +7,33 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://karstenslab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Do you see what I see? </title>
+      <link>http://karstenslab.github.io/post/microshades/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/post/microshades/</guid>
+      <description>&lt;p&gt;Approximately 300 million people in the world have Color Vision Deficiency (CVD), which is comparable to the most recent estimate of the US population. Individuals with CVD do not experience a complete loss of color vision, though the ability to distinguish different colors is reduced.  When creating  figures and graphics that use color, it is important to consider that people with CVD will interact with this material, and may not perceive all of the information tied to the colors correctly.  There are multiple CVD friendly color palettes available on R to apply to visuals, however they are restricted to 8 different colors.  When working with complex data, such as microbiome data, this is insufficient.&lt;/p&gt;
+&lt;p&gt;To overcome this limitation, we developed the microshades R package to provide custom color shading palettes that improve accessibility and data organization. Each color palette contains six base colors with five incremental light to dark shades, for a total of 30 available colors per palette type that can be directly applied to any plot. This package includes two crafted color palettes,  microshades_cvd_palettes and microshades_palettes.   The microshades_cvd_palettes contain colors that are universally CVD friendly. The individual microshades_palettes are CVD friendly, but when used in conjunction with multiple microshades_palettes, are not universally accessible.&lt;/p&gt;
+&lt;p&gt;In addition to color palettes, the microshades package contains functions to aid in data visualization including functions for creating stacked bar plots organized by a data-driven hierarchy. The microshades package can be used in conjunction with common microbiome R packages, such as phyloseq, to enhance microbiome data visualization. In the case of microbiome data, the base colors correspond with a higher order taxonomic group (e.g. phylum) and shades of the base color represent subgroups of the taxonomic group (e.g. genus). Subgroup shading is determined by the abundance in the dataset. Darker shades indicate the most abundant subgroup for each group, and lighter shades represent less abundant subgroups. To further assist users with data storytelling, we have functions to sort data both vertically and horizontally based on ranked abundance or user specification.  The accessibility and advanced color organization features described help data reviewers and consumers notice visual patterns and trends easier. Examples of microshades in action are available on our website, for both microbiome and other datasets.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://karstenslab.github.io/microshades&#34;&gt;https://karstenslab.github.io/microshades&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Color Vision Deficency Resources</title>
+      <link>http://karstenslab.github.io/post/cvd_resources/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/post/cvd_resources/</guid>
+      <description>&lt;p&gt;Build EXITO student Emory Neer has developed a resource page for CVD friendliness resources. She has worked on handcrafting a universially accessible palette  that is avalible the &lt;a href=&#34;https://sites.google.com/pdx.edu/cvd-friendliness-resources/home?fbclid=IwAR01_rPpeWNK3GaI2ozpnJr7THLH1ooWU7ZJ98ixVPJc2dBc18OEf_Mo-Mo&#34;&gt;resources page&lt;/a&gt;. Also avalible at bit.ly/cvdresources&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Congrats to Kate for receiving the Frictionless data fellowship!</title>
@@ -18,19 +41,7 @@
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>http://karstenslab.github.io/post/frictionlessfellow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Do you see what I see? Introducing microshades: An R package for improving color accessibility and organization of complex data</title>
-      <link>http://karstenslab.github.io/post/microshades/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://karstenslab.github.io/post/microshades/</guid>
-      <description>&lt;p&gt;Approximately 300 million people in the world have Color Vision Deficiency (CVD), which is comparable to the most recent estimate of the US population. Individuals with CVD do not experience a complete loss of color vision, though the ability to distinguish different colors is reduced.  When creating  figures and graphics that use color, it is important to consider that people with CVD will interact with this material, and may not perceive all of the information tied to the colors correctly.  There are multiple CVD friendly color palettes available on R to apply to visuals, however they are restricted to 8 different colors.  When working with complex data, such as microbiome data, this is insufficient.&lt;/p&gt;
-&lt;p&gt;To overcome this limitation, we developed the microshades R package to provide custom color shading palettes that improve accessibility and data organization. Each color palette contains six base colors with five incremental light to dark shades, for a total of 30 available colors per palette type that can be directly applied to any plot. This package includes two crafted color palettes,  microshades_cvd_palettes and microshades_palettes.   The microshades_cvd_palettes contain colors that are universally CVD friendly. The individual microshades_palettes are CVD friendly, but when used in conjunction with multiple microshades_palettes, are not universally accessible.&lt;/p&gt;
-&lt;p&gt;In addition to color palettes, the microshades package contains functions to aid in data visualization including functions for creating stacked bar plots organized by a data-driven hierarchy. The microshades package can be used in conjunction with common microbiome R packages, such as phyloseq, to enhance microbiome data visualization. In the case of microbiome data, the base colors correspond with a higher order taxonomic group (e.g. phylum) and shades of the base color represent subgroups of the taxonomic group (e.g. genus). Subgroup shading is determined by the abundance in the dataset. Darker shades indicate the most abundant subgroup for each group, and lighter shades represent less abundant subgroups. To further assist users with data storytelling, we have functions to sort data both vertically and horizontally based on ranked abundance or user specification.  The accessibility and advanced color organization features described help data reviewers and consumers notice visual patterns and trends easier. Examples of microshades in action are available on our website, for both microbiome and other datasets.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://karstenslab.github.io/microshades&#34;&gt;https://karstenslab.github.io/microshades&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Learn more about &lt;a href=&#34;https://frictionlessdata.io&#34;&gt;Frictionless Data&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
