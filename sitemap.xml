@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://karstenslab.github.io/publication_types/2/</loc>
-    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+    <loc>http://karstenslab.github.io/authors/admin/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/post/2021_publications/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/authors/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://karstenslab.github.io/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/post/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/publication_types/2/</loc>
     <lastmod>2021-09-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,22 +58,27 @@
   </url>
   
   <url>
-    <loc>http://karstenslab.github.io/authors/admin/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <loc>http://karstenslab.github.io/talk/2021_user/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://karstenslab.github.io/authors/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <loc>http://karstenslab.github.io/authors/lisa-karstens/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://karstenslab.github.io/post/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <loc>http://karstenslab.github.io/authors/phd/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://karstenslab.github.io/post/2021-interns/</loc>
+    <loc>http://karstenslab.github.io/talk/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/post/2021_interns/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,8 +93,18 @@
   </url>
   
   <url>
-    <loc>http://karstenslab.github.io/post/2021-grads-/</loc>
+    <loc>http://karstenslab.github.io/post/2021_grads-/</loc>
     <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/talk/2021_cascadiar/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/authors/erin-dahl/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -103,22 +138,12 @@
   </url>
   
   <url>
-    <loc>http://karstenslab.github.io/authors/lisa-karstens/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://karstenslab.github.io/authors/md/</loc>
     <lastmod>2020-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://karstenslab.github.io/authors/phd-and-ian-fields/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://karstenslab.github.io/talk/</loc>
     <lastmod>2020-10-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -138,17 +163,12 @@
   </url>
   
   <url>
-    <loc>http://karstenslab.github.io/post/2020-grads/</loc>
+    <loc>http://karstenslab.github.io/post/2020_grads/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://karstenslab.github.io/talk/2019_glbio/</loc>
-    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://karstenslab.github.io/authors/phd/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -233,7 +253,7 @@
   </url>
   
   <url>
-    <loc>http://karstenslab.github.io/post/2018-grads/</loc>
+    <loc>http://karstenslab.github.io/post/2018_grads/</loc>
     <lastmod>2018-06-03T00:00:00+00:00</lastmod>
   </url>
   

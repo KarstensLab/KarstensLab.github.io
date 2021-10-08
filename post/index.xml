@@ -7,17 +7,38 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://karstenslab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>2021 Publications</title>
+      <link>http://karstenslab.github.io/post/2021_publications/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/post/2021_publications/</guid>
+      <description>&lt;p&gt;The Karstens Lab has been working hard on publications this year. Please see 2021 publications below:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.10.27.358408v2&#34;&gt;Species-Level Resolution of Female Bladder Microbiota from 16S rRNA Amplicon Sequencing&lt;/a&gt;.
+Hoffman C, Siddiqui NY, Fields I, Gregory WT, Simon HM, Mooney MA, Wolfe AJ, Karstens L.
+mSystems. 2021 Sep 14:e0051821. Online ahead of print. PMID: 34519534&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34282932&#34;&gt;Forming Consensus To Advance Urobiome Research&lt;/a&gt;.
+Brubaker L, Gourdine JF, Siddiqui NY, Holland A, Halverson T, Limeria R, Pride D, Ackerman L, Forster CS, Jacobs KM, Thomas-White KJ, Putonti C, Dong Q, Weinstein M, Lukacz ES, Karstens L, Wolfe AJ. mSystems. 2021 Aug 31;6(4):e0137120. Epub 2021 Jul 20. PMID: 34282932&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.auajournals.org/doi/abs/10.1097/JU.0000000000001940&#34;&gt;The Urinary Microbiome in Postmenopausal Women with Recurrent Urinary Tract Infections&lt;/a&gt;.
+Vaughan MH, Mao J, Karstens LA, Ma L, Amundsen CL, Schmader KE, Siddiqui NY.
+J Urol. 2021 Jun 28:101097JU0000000000001940. Online ahead of print. PMID: 34181466&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33731788&#34;&gt;Benchmarking DNA isolation kits used in analyses of the urinary microbiome&lt;/a&gt;.Karstens L, Siddiqui NY, Zaza T, Barstad A, Amundsen CL, Sysoeva TA.
+Sci Rep. 2021 Mar 17;11(1):6186. doi: 10.1038/s41598-021-85482-1.
+PMID: 33731788 Free PMC article.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome 2021 Interns!</title>
-      <link>http://karstenslab.github.io/post/2021-interns/</link>
+      <link>http://karstenslab.github.io/post/2021_interns/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://karstenslab.github.io/post/2021-interns/</guid>
+      <guid>http://karstenslab.github.io/post/2021_interns/</guid>
       <description>&lt;p&gt;The Karstens lab welcomes two undergraduate interns for summer 2021 as part of a &lt;a href=&#34;https://www.ohsu.edu/school-of-medicine/medical-informatics-and-clinical-epidemiology/internship-program&#34;&gt;bioinformatics virtual internship&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Lily (left in photo) is an undergraduate at the University of Southern California. She is on the pre-medical track pursuing a Bachelor&amp;rsquo;s of Science in Human Biology with a minor in Computational Biology and Bioinformatics. Outside of academics, she enjoys dancing in various styles and is a member of the dance team at USC. She is looking forward to learning more about bioinformatics and the human microbiome this summer.&lt;/p&gt;
 &lt;p&gt;Palmer (right in photo) is a senior undergraduate student studying Math and Biology at Lewis and Clark College. She grew up in Fort Collins, Colorado and has spent the past year studying remotely in Vermont and Idaho. Although Palmer is new to the field of bioinformatics and epidemiology, she is  excited to be a part of the Karstens Lab this summer. In her spare time, she enjoys mountain biking, skiing, and spending time in the mountains.&lt;/p&gt;
@@ -36,10 +57,10 @@
     
     <item>
       <title>Congrats 2021 Grads!</title>
-      <link>http://karstenslab.github.io/post/2021-grads-/</link>
+      <link>http://karstenslab.github.io/post/2021_grads-/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://karstenslab.github.io/post/2021-grads-/</guid>
+      <guid>http://karstenslab.github.io/post/2021_grads-/</guid>
       <description>&lt;p&gt;The Karstens lab members have continued to make progress towards wrapping up their studies in 2021. DMICE BCB Masters students Eric Leung and Dan Fischer completed their programs. Eric’s thesis focused on applying novel network-based methods to 16S rRNA gene sequencing data to better understand the contribution of the urinary and vaginal microbiomes to urgency urinary incontinence. Dan completed a capstone/internship at the Institute for Systems Biology, also looking into novel applications of network-based approaches to understand multi-omic data. Our second EXITO scholar, Emory Neer, graduated this year! Her EXITO project explored expanding colorblind accessible color palettes to include more colors and how to apply these colors to make microbiome data visualizations more accessible. This work provided the basis for the &lt;a href=&#34;https://karstenslab.github.io/microshades&#34;&gt;microshades package&lt;/a&gt; that our group released this year.  CONGRATS ALL!&lt;/p&gt;
 </description>
     </item>
@@ -101,20 +122,20 @@
     
     <item>
       <title>Congrats to 2020 Graduates!</title>
-      <link>http://karstenslab.github.io/post/2020-grads/</link>
+      <link>http://karstenslab.github.io/post/2020_grads/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://karstenslab.github.io/post/2020-grads/</guid>
+      <guid>http://karstenslab.github.io/post/2020_grads/</guid>
       <description>&lt;p&gt;2020 has been hard in so many ways, BUT the Karstens lab members have been busy wrapping up their studies. DMICE BCB Masters students Carter Hoffman and Alfonso Poire completed their programs. Carter’s thesis focused on identifying species-level information from 16S rRNA gene sequencing data. Alfonso completed a capstone/internship at J Craig Venter Institute probing molecular interactions in the nitrogen-fixing cyanobacteria-feather moss symbiosis. Also, our first EXITO scholar, Fatoumata Jallow, graduated! Her EXITO project explored using additional experimental information to improve urinary microbiome measurements. Finally, urogynecology Fellow Ian Fields, MD completed his training and will be joining OHSU as faculty.    We are sad that were not able to celebrate these accomplishments in person! CONGRATS ALL!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Congrats to 2018 graduates!</title>
-      <link>http://karstenslab.github.io/post/2018-grads/</link>
+      <link>http://karstenslab.github.io/post/2018_grads/</link>
       <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://karstenslab.github.io/post/2018-grads/</guid>
+      <guid>http://karstenslab.github.io/post/2018_grads/</guid>
       <description>&lt;p&gt;The first two graduate students in the Karstens lab have officially graduated! Mark Klick and Vincent Caruso joined the Karstens Lab to complete their Master’s thesis project in 2017. Mark’s project was in collaboration with the Asquith Lab and focused on investigating a novel IgA Seq technology to understand spondyloarthritis. He will be joining this lab as a Research Assistant after graduation. Vincent’s project focused on benchmarking newly developed microbiome bioinformatic approachesin samples of varying microbial biomass. He will be completing a Fellowship at the CDC. Congrats Mark and Vincent!&lt;/p&gt;
 </description>
     </item>
