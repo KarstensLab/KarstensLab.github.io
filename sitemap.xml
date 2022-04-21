@@ -198,6 +198,21 @@
   </url>
   
   <url>
+    <loc>http://karstenslab.github.io/lab_members/erin/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/tags/grad-students/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/lab_members/kate/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://karstenslab.github.io/lab_members/alec/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -213,22 +228,7 @@
   </url>
   
   <url>
-    <loc>http://karstenslab.github.io/lab_members/erin/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://karstenslab.github.io/tags/grad-students/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://karstenslab.github.io/lab_members/justine/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://karstenslab.github.io/lab_members/kate/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -272,6 +272,10 @@
   </url>
   
   <url>
+    <loc>http://karstenslab.github.io/tags/benchmarking/</loc>
+  </url>
+  
+  <url>
     <loc>http://karstenslab.github.io/tags/bioinformatics/</loc>
   </url>
   
@@ -288,6 +292,10 @@
   </url>
   
   <url>
+    <loc>http://karstenslab.github.io/tags/data-viz/</loc>
+  </url>
+  
+  <url>
     <loc>http://karstenslab.github.io/lab_members/fatima/</loc>
   </url>
   
@@ -297,6 +305,10 @@
   
   <url>
     <loc>http://karstenslab.github.io/tags/microbiome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/project/microshades/</loc>
   </url>
   
   <url>
