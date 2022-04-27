@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://karstenslab.github.io/publication_types/2/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <loc>http://karstenslab.github.io/authors/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://karstenslab.github.io/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/authors/lisa-karstens/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/authors/phd/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/talk/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/talk/2022_pennst/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/publication_types/2/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,17 +63,32 @@
   </url>
   
   <url>
+    <loc>http://karstenslab.github.io/talk/2022_utiga/</loc>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/authors/phd-and-kate-bowie/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/authors/phd-candidate/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karstenslab.github.io/talk/2022_sufu/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://karstenslab.github.io/authors/admin/</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://karstenslab.github.io/post/2021_publications/</loc>
-    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://karstenslab.github.io/authors/</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -64,21 +104,6 @@
   
   <url>
     <loc>http://karstenslab.github.io/talk/2021_user/</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://karstenslab.github.io/authors/lisa-karstens/</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://karstenslab.github.io/authors/phd/</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://karstenslab.github.io/talk/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url>
   
