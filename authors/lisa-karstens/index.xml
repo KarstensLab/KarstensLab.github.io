@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://karstenslab.github.io/authors/lisa-karstens/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction to Urobiome Metadata Standards</title>
+      <link>http://karstenslab.github.io/talk/2022_metadata/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/talk/2022_metadata/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reliability and reproducibility in urobiome research – challenges and promise in investigating a low microbial biomass environment</title>
