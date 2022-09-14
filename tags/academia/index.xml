@@ -14,12 +14,13 @@
     
     <item>
       <title>2022 LAMG conference</title>
-      <link>http://karstenslab.github.io/post/microshades_poster/</link>
+      <link>http://karstenslab.github.io/post/2022_lamg/</link>
       <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://karstenslab.github.io/post/microshades_poster/</guid>
-      <description>&lt;p&gt;At the 2022 Lake Arrowhead Microbial Genomics Conference Dr. Karstens presented microshades at the poster session.&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;https://github.com/KarstensLab/Presentations/blob/main/2022-LAMG/2022_LAMG_microshades_poster.pdf&#34;&gt;poster pdf&lt;/a&gt; is available online, as well as the &lt;a href=&#34;https://karstenslab.github.io/microshades&#34;&gt;microshades repository&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://karstenslab.github.io/post/2022_lamg/</guid>
+      <description>&lt;p&gt;At the 2022 Lake Arrowhead Microbial Genomics Conference, the Karstens lab presented recent work on evaluating microbial DNA in blood and the microshades R package at the poster session.&lt;/p&gt;
+&lt;p&gt;Kate Bowie (PhD candidate) presented &amp;ldquo;Assessing Microbial DNA in Blood: Does Fraction Matter?​&amp;rdquo; and Lisa Karstens, PhD presented &amp;ldquo;microshades: An R package for improving color accessibility and organization of microbiome data&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;For more information on microshades, see the &lt;a href=&#34;https://github.com/KarstensLab/Presentations/blob/main/2022-LAMG/2022_LAMG_microshades_poster.pdf&#34;&gt;poster pdf&lt;/a&gt; and the &lt;a href=&#34;https://karstenslab.github.io/microshades&#34;&gt;microshades repository&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -36,6 +37,16 @@
 &lt;li&gt;&lt;a href=&#34;https://www.ics.org/glossary#A&#34;&gt;Urology /urogynecology terms: International Continence (ICS) glossary&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/GenomicsStandardsConsortium/mixs/blob/main/release/excel/mixs_v6.xlsx&#34;&gt;General terms - Genomic Standards Consortium MiXS 6, start with human-associated packages&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Karstens Lab was busy at SUFU 2022!</title>
+      <link>http://karstenslab.github.io/post/2022_sufu/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/post/2022_sufu/</guid>
+      <description>&lt;p&gt;Dr. Karstens presented Rethinking the Role of Bacteria in the Bladder in Overactive Bladder and Urinary Incontinence in the Young Investigator Spotlight at the SUFU 2022 Winter meeting. She also presented on the findings from the HMS-ESTEEM study linking the urobiome to urinary incontinence severity in women with mixed urinary incontinence. Kate Bowie (PhD candidate) also presented her work on male urinary microbiome in men with lower urinary tract symptoms.&lt;/p&gt;
 </description>
     </item>
     
