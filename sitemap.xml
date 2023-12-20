@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://karstenslab.github.io/publication_types/2/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/publication/2022_microshades/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/publication_types/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/publication/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/tags/source-themes/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/tags/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://karstenslab.github.io/authors/admin/</loc>
     <lastmod>2022-09-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,13 +35,7 @@
     <loc>http://karstenslab.github.io/authors/</loc>
     <lastmod>2022-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://karstenslab.github.io/</loc>
-    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://karstenslab.github.io/post/</loc>
-    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://karstenslab.github.io/tags/</loc>
     <lastmod>2022-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://karstenslab.github.io/post/2022_interns/</loc>
@@ -44,19 +59,7 @@
     <loc>http://karstenslab.github.io/talk/2022_pennst/</loc>
     <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://karstenslab.github.io/publication_types/2/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://karstenslab.github.io/publication/2022_uui_networks/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://karstenslab.github.io/publication_types/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://karstenslab.github.io/publication/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://karstenslab.github.io/tags/source-themes/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://karstenslab.github.io/talk/2022_utiga/</loc>
