@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://karstenslab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Urinary microbiome community types associated with urinary incontinence severity in women</title>
+      <link>http://karstenslab.github.io/publication/2023_community_types/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/publication/2023_community_types/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>microshades: An R Package for Improving Color Accessibility and Organization of Microbiome Data</title>
@@ -27,6 +36,24 @@
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>http://karstenslab.github.io/publication/2022_updating_um_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concordance of urinary microbiota detected by 16S ribosomal RNA amplicon sequencing vs expanded quantitative urine culture</title>
+      <link>http://karstenslab.github.io/publication/2022_16s_equc/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/publication/2022_16s_equc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Local Estrogen on the Urogenital Microbiome in Genitourinary Syndrome of Menopause: A Randomized-Controlled Trial</title>
+      <link>http://karstenslab.github.io/publication/2022_postmeno_um/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/publication/2022_postmeno_um/</guid>
       <description></description>
     </item>
     
