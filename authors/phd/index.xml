@@ -7,10 +7,31 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://karstenslab.github.io/authors/phd/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Optimizing information to investigate the urobiome</title>
+      <link>http://karstenslab.github.io/talk/2023_cairibu/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/talk/2023_cairibu/</guid>
+      <description>&lt;p&gt;Lisa Karstens, PhD presented her group’s recent work at the Collaborating for the Advancement of Interdisciplinary Research in Benign Urology (CAIRIBU) Uromicrobiota Research Interest Group (U-RIG) in Dec 2023. You can watch her talk &lt;a href=&#34;https://www.youtube.com/watch?v=e85UO43gCYo&#34;&gt;“Optimizing information to investigate the urobiome”&lt;/a&gt; on the CAIRIBU YouTube channel.&lt;/p&gt;
+&lt;p&gt;U-RIG is a monthly series for knowledge exchange and collaborations in urobiome and adjacent fields. For more information and to sign up go &lt;a href=&#34;cairibu.urology.wisc.edu&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing the Human Contaminome</title>
+      <link>http://karstenslab.github.io/talk/2023_iccmg/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/talk/2023_iccmg/</guid>
+      <description>&lt;p&gt;Lisa Karstens, PhD presented a keynote at the ICCMG conference in Geneva, Switzerland on Nov 16th 2023.  Her talk entitled “Introducing the Human Contaminome” presented the current issues around contaminants in sequence based microbiome studies and reviewed the current computational solutions.The slides from her talk are available &lt;a href=&#34;https://clinicalmetagenomics.org/wp-content/uploads/2023/12/Presentation-Lisa-Karstens.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Introduction to Urobiome Metadata Standards</title>

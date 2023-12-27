@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://karstenslab.github.io/publication_types/2/</loc>
-    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
+    <loc>http://karstenslab.github.io/authors/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://karstenslab.github.io/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/authors/lisa-karstens/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/talk/2023_cairibu/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/authors/phd/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/talk/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/talk/2023_iccmg/</loc>
+    <lastmod>2023-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/publication_types/2/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://karstenslab.github.io/publication_types/</loc>
@@ -35,9 +53,6 @@
     <loc>http://karstenslab.github.io/tags/academia/</loc>
     <lastmod>2022-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://karstenslab.github.io/authors/</loc>
-    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://karstenslab.github.io/post/</loc>
     <lastmod>2022-09-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -57,15 +72,6 @@
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://karstenslab.github.io/talk/2022_metadata/</loc>
-    <lastmod>2022-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://karstenslab.github.io/authors/lisa-karstens/</loc>
-    <lastmod>2022-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://karstenslab.github.io/authors/phd/</loc>
-    <lastmod>2022-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://karstenslab.github.io/talk/</loc>
     <lastmod>2022-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://karstenslab.github.io/talk/2022_pennst/</loc>
@@ -104,7 +110,7 @@
     <loc>http://karstenslab.github.io/post/circle_of_giving/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://karstenslab.github.io/post/2021_grads-/</loc>
+    <loc>http://karstenslab.github.io/post/2021_grads_/</loc>
     <lastmod>2021-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://karstenslab.github.io/talk/2021_cascadiar/</loc>
