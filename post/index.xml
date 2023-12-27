@@ -7,10 +7,34 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://karstenslab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Karstens lab at 2023 AUGS PFD Week</title>
+      <link>http://karstenslab.github.io/post/2023_augs_pfd/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/post/2023_augs_pfd/</guid>
+      <description>&lt;p&gt;At the 2023 American Urogynecologic Society (AUGS) Pelvic Floor Disorders Week, the Karstens lab presented recent work on the urinary microbiome.&lt;/p&gt;
+&lt;p&gt;Dr. JP Gourdine (now at Lewis &amp;amp; Clark College) presented work completed in the Karstens Lab in his talk entitled “Altered urinary free oligosaccharides in postmenopausal women with dry overactive bladder.”  Collaborator Nicki Diaz, MD from Duke University presented “Associations between Lactobacilli, menopause and vaginal estrogen use”. She won the Best Resident/Student paper for this work. She also presented a poster on “Comparison of Host Depletion Protocols and Sequencing Techniques for Urinary Microbiome”.&lt;/p&gt;
+&lt;p&gt;Stay tuned for more information on these projects, which will be deposited as preprints soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Congrats 2023 Grads!</title>
+      <link>http://karstenslab.github.io/post/2023_grads/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/post/2023_grads/</guid>
+      <description>&lt;p&gt;The Karstens lab members have continued to make progress towards wrapping up their studies in 2023. DMICE BCB Masters students Matt Hammer and Alex Rouhier both completed their master theses. Biomedical Engineering student Kate Bowie, PhD successfully defended her dissertation.&lt;/p&gt;
+&lt;p&gt;Matt Hammer&amp;rsquo;s thesis Evaluation of Tools for Functional Inference in the Pediatric Gut Microbiome evaluated how well functional prediction tools worked on the pediatric gut microbiome data. Alex Rouhier&amp;rsquo;s thesis &amp;ldquo;Evaluating microshade color palette accessibility for color vision deficiency&amp;rdquo; explored how well the microshades color palette improves accessibility for people with color blindness.&lt;/p&gt;
+&lt;p&gt;Kate&amp;rsquo;s dissertation “Investigating the Human Microbiome in Prostate Health and Disease: Examining Low-microbial Biomass Human Samples” explored how the microbiome could inform on prostate disease. She rigorously evaluated the blood microbiome as a potential biomarker for prostate cancer in addition to completing the largest male urobiome study to date. This work will set the stage for future studies.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2022 LAMG conference</title>
