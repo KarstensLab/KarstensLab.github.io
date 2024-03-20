@@ -7,10 +7,30 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://karstenslab.github.io/tags/researcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anagha Shenoy</title>
+      <link>http://karstenslab.github.io/lab_members/anagha/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/lab_members/anagha/</guid>
+      <description>&lt;p&gt;Anagha Shenoy is an undergraduate at the University of Illinois Urbana-Champaign studying computer science with minors in integrative biology and informatics. Her interests are in computational biology and bioinformatics to broaden understanding of human health and disease and support innovative research. As part of the Karstens Lab, Anagha contributes to research on computational and statistical approaches for quantitative profiling of the urinary microbiome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Christina Turner</title>
+      <link>http://karstenslab.github.io/lab_members/christina/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/lab_members/christina/</guid>
+      <description>&lt;p&gt;Christina Turner joined the Karstens Lab in January 2024 while completing her PhD in computational biology at OHSU. While assisting with completing a wide array of projects in the Karstens Lab, her main focus is on reproducibility, including R coding for data analysis and creating publication-ready figures.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Jean-Philippe Gourdine</title>
