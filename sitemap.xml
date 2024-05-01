@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://karstenslab.github.io/authors/admin/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/tags/academia/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/authors/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/post/2024_asm_dei/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/post/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://karstenslab.github.io/tags/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://karstenslab.github.io/lab_members/anagha/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://karstenslab.github.io/lab_members/christina/</loc>
-    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://karstenslab.github.io/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://karstenslab.github.io/lab_members/</loc>
@@ -16,12 +34,6 @@
   </url><url>
     <loc>http://karstenslab.github.io/tags/researcher/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://karstenslab.github.io/tags/</loc>
-    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://karstenslab.github.io/authors/</loc>
-    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://karstenslab.github.io/authors/lisa-karstens/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
@@ -53,16 +65,7 @@
     <loc>http://karstenslab.github.io/publication/2023_community_types/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://karstenslab.github.io/authors/admin/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://karstenslab.github.io/tags/academia/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://karstenslab.github.io/post/2023_augs_pfd/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://karstenslab.github.io/post/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://karstenslab.github.io/post/2023_grads/</loc>
