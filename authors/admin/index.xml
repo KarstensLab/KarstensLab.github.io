@@ -13,6 +13,16 @@
     
     
     <item>
+      <title></title>
+      <link>http://karstenslab.github.io/authors/admin/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;The Karstens Lab is an interdisciplinary group at Oregon Health &amp;amp; Science University in the Department of Medical Informatics, Division of Bioinformatics and Computational Biomedicine.  We study the human microbiome and its relationship to health and disease using high-throughput sequencing and analytical chemistry approaches. We specialize in the urinary microbiome and other low microbial biomass niches, but also have projects involving the gut microbiome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome 2024 Interns!</title>
       <link>http://karstenslab.github.io/post/2024_interns/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
@@ -91,7 +101,7 @@
       <description>&lt;p&gt;The Karstens Lab has been working with the urobiome research community and National Microbiome Data Collaborative to develop metadata standards to make urobiome research more FAIR. Here are several resources to apply these standards to your own research:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/KarstensLab/Presentations/tree/main/2022-UrobiomeMetadata&#34;&gt;Urobiome metadata presentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://journals.asm.org/doi/full/10.1128/mSystems.01371-20?rfr_dat=cr_pub++0pubmed&amp;amp;url_ver=Z39.88-2003&amp;amp;rfr_id=ori%3Arid%3Acrossref.org&#34;&gt;Forming Consensus To Advance Urobiome Research manuscript by Brubaker et al.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://journals.asm.org/doi/full/10.1128/mSystems.01371-20?rfr_dat=cr_pub++0pubmed&amp;url_ver=Z39.88-2003&amp;rfr_id=ori%3Arid%3Acrossref.org&#34;&gt;Forming Consensus To Advance Urobiome Research manuscript by Brubaker et al.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ics.org/glossary#A&#34;&gt;Urology /urogynecology terms: International Continence (ICS) glossary&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/GenomicsStandardsConsortium/mixs/blob/main/release/excel/mixs_v6.xlsx&#34;&gt;General terms - Genomic Standards Consortium MiXS 6, start with human-associated packages&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -233,6 +243,16 @@ PMID: 33731788 Free PMC article.&lt;/p&gt;
       
       <guid>http://karstenslab.github.io/post/2018_grads/</guid>
       <description>&lt;p&gt;The first two graduate students in the Karstens lab have officially graduated! Mark Klick and Vincent Caruso joined the Karstens Lab to complete their Master’s thesis project in 2017. Mark’s project was in collaboration with the Asquith Lab and focused on investigating a novel IgA Seq technology to understand spondyloarthritis. He will be joining this lab as a Research Assistant after graduation. Vincent’s project focused on benchmarking newly developed microbiome bioinformatic approachesin samples of varying microbial biomass. He will be completing a Fellowship at the CDC. Congrats Mark and Vincent!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://karstenslab.github.io/authors/authors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://karstenslab.github.io/authors/authors/</guid>
+      <description>&lt;p&gt;The Karstens Lab is an interdisciplinary group at Oregon Health &amp;amp; Science University in the Department of Medical Informatics, Division of Bioinformatics and Computational Biomedicine.  We study the human microbiome and its relationship to health and disease using high-throughput sequencing and analytical chemistry approaches. We specialize in the urinary microbiome and other low microbial biomass niches, but also have projects involving the gut microbiome.&lt;/p&gt;
 </description>
     </item>
     
